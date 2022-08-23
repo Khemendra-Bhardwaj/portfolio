@@ -1,0 +1,88 @@
+.main-box{
+  /* margin-top:40px;
+  padding-right: 100%; */
+}
+.sundar_pichai-main{
+  height: 645px;
+  width: 420px;
+  /* border: solid; */
+  /* border-radius: 5%; */
+}
+/* .sundar_pichai{
+  height: 200px;
+  width: 150px;
+  border: solid;
+  border-radius: 5%;
+
+} */
+body{
+  /* background-color: #1F1B24; */
+}
+
+.sundar-main-box{
+
+  margin-top: 20px;
+}
+.list{
+  /* padding-left:  0px; */
+  /* margin-right: 0px; */
+  padding-left: 65%;
+
+}
+.home{
+  /* padding-right:  */
+  margin-right: 60px;
+}
+.link{
+  margin-right: 40px;
+}
+.dropdownn{
+  /* margin-right: 100%; */
+  /* padding-right: 100px; */
+  /* margin-left: 50%; */
+}
+.navbar-shift{
+  /* margin-left: 10%; */
+}
+.cards{
+
+  /* padding-right: 50px; */
+  /* margin-left: 20px; */
+
+  /* margin-left: 20px; */
+  /* padding-left: 50px; */
+}
+.font{
+  font-size: 1.2rem;
+}
+.card{
+  /* border-radius: 2%;
+  border: solid; */
+  /* background-color: black; */
+}
+.right-all{
+  /* padding-left:50px; */
+  margin-top: 20px;
+  padding-left: 20px;
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+  border: solid;
+  border-width: thin;
+  /* padding-left: 50px; */
+}
+.edit-navbar{
+  /* border:solid; */
+  border-bottom: solid;
+  border-width: thin;
+}
+.border-lagao{
+  /* border-top:solid; */
+  border-width: thin;
+  border-bottom: solid;
+}
+.pop-over{
+  /* position: absolute; */
+  /* background-color: red; */
+
+}
