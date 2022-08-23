@@ -4,7 +4,7 @@ const app = express();
 // const request = require("request");
 app.use(express.static("public"));
 // all css files images pdf  are static
-//use above code to access them   
+//use above code to access them
 app.get("/", function(req,res)
 { res.sendFile(__dirname+"/html.html");
 
@@ -12,6 +12,10 @@ app.get("/", function(req,res)
   console.log("file send successfully");
 }
 );
+app.get("/about", function(req,res) {
+  console.log("about page is send successfully");
+});
+
 
 
 app.listen(3000, function(){
